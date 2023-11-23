@@ -1,2 +1,4 @@
 # websitescraping
-Webscraping using BeautifulSoup (a Python library)
+Web scraping using BeautifulSoup, a Python library
+
+
